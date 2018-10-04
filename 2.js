@@ -1,0 +1,11 @@
+//document.getElementById('d1').innerHTML = 'Hello JavaScript';
+document.writeln('Hello World');
+y3 = 17 + "Royal";
+document.write(y3 + " ");
+var day3 = new Date();
+document.writeln(day3);
+var employee = new Object();
+var books3 = new Array("C","C++", "Perl", "Java", "Học Java Script Bài 2");
+var day5 = new Date("August 15, 1947");
+document.writeln(books3);
+document.writeln(day5);
